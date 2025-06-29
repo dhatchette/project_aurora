@@ -36,3 +36,7 @@ This change isn't ready for commit yet.
 
 ### Documentation Update
 Improved clarity and added examples.
+
+* Added a quick hotfix from another dev
+
+
