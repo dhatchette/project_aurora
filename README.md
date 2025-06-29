@@ -29,3 +29,7 @@ This change isn't ready for commit yet.
 ### Refactor Notes
 - Initial refactor thoughts
 
+
+
+- Plan to optimize module A
+
