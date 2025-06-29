@@ -18,3 +18,6 @@ Adds a contact form for user inquiries.
 Provides insights into user behavior.
 - Page views tracking
 - User session analysis
+
+### Half-finished Idea
+This change isn't ready for commit yet.
