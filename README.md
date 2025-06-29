@@ -13,3 +13,8 @@ Adds basic user profile functionality.
 Adds a contact form for user inquiries.
 - Submission form
 - Email notification
+
+### Analytics Module
+Provides insights into user behavior.
+- Page views tracking
+- User session analysis
