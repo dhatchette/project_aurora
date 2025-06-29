@@ -8,3 +8,8 @@ Features:
 Adds basic user profile functionality.
 - User registration
 - Profile viewing
+
+### Contact Form Module
+Adds a contact form for user inquiries.
+- Submission form
+- Email notification
