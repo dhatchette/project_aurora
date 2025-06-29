@@ -22,5 +22,10 @@ Provides insights into user behavior.
 ### Half-finished Idea
 This change isn't ready for commit yet.
 
+
 ### Core Update
-Minor update to core functionality.
+
+
+### Refactor Notes
+- Initial refactor thoughts
+
