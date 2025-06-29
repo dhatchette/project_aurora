@@ -1,5 +1,5 @@
 # Project Aurora
-This is the initial project setup.
+Initial core setup for the Aurora project.
 ---
 Features:
 - Initial setup
