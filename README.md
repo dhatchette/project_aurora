@@ -33,3 +33,6 @@ This change isn't ready for commit yet.
 
 - Plan to optimize module A
 
+
+### Documentation Update
+Improved clarity and added examples.
